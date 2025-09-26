@@ -22,7 +22,7 @@ Gosto de natação, andar de bicicleta, estudar programação e assistir a filme
 ### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-dos-santos-cabral-b38b882a9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lc2020br@gma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lc2020br@gmal.com)
           
 ### O que esperar
 
