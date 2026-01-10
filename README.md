@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim
 
-Gosto de natação, andar de bicicleta, estudar programação e assistir a filmes de Ficção Científica e suspense.
+Gosto de natação, andar de bicicleta, estudar programação e assistir a filmes de ficção científica e suspense.
 
 ### Tecnologias e Ferramentas
 
